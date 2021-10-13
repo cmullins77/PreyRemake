@@ -1014,3 +1014,19 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.13-21.22.35:695][710]LogConcert: [Pending] Deleting Session...
 [2021.10.13-21.22.36:733][776]LogConcert: Display: Server DESKTOP-QHS3TPO lost.
 [2021.10.13-21.23.31:770][448]LogConcert: Error: [Failure] Failed to Delete Session ''
+[2021.10.13-21.24.51:612][809]LogSlate: Window 'Save Level As' being destroyed
+[2021.10.13-21.24.51:655][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/mulli/OneDrive/Documents/GitHub/PreyRemake/PreyRemake/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.13-21.24.51:659][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.10.13-21.24.51:667][809]LogSavePackage: Moving '../../../../../../Users/mulli/OneDrive/Documents/GitHub/PreyRemake/PreyRemake/Saved/MainE4C9B89344FD3E1A4782CAA06006EFA0.tmp' to '../../../../../../Users/mulli/OneDrive/Documents/GitHub/PreyRemake/PreyRemake/Content/Maps/Main.umap'
+[2021.10.13-21.24.51:669][809]SourceControl: Source control is disabled
+[2021.10.13-21.24.51:670][809]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/Main_BuiltData
+[2021.10.13-21.24.51:670][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/mulli/OneDrive/Documents/GitHub/PreyRemake/PreyRemake/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.10.13-21.24.51:682][809]LogSavePackage: Moving '../../../../../../Users/mulli/OneDrive/Documents/GitHub/PreyRemake/PreyRemake/Saved/Main_BuiltDataA096F55B4FC369B291CA1CB29D182D56.tmp' to '../../../../../../Users/mulli/OneDrive/Documents/GitHub/PreyRemake/PreyRemake/Content/Maps/Main_BuiltData.uasset'
+[2021.10.13-21.24.51:683][809]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/Main_BuiltData
+[2021.10.13-21.24.51:694][809]LogFileHelpers: Saving map 'Main' took 0.071
+[2021.10.13-21.24.51:697][809]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.13-21.24.51:698][809]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.10.13-21.24.51:698][809]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.10.13-21.24.51:701][809]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
